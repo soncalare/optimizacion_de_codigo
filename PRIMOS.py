@@ -17,3 +17,4 @@ print(f"Cantidad total de primos encontrados: {len(primos)}")
 
 end = time.time()
 print(f"Tiempo de ejecución: {end - start:.2f} segundos")
+print(f"{end - start:.6f}")

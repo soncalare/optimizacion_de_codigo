@@ -1,0 +1,22 @@
+Tue May 20 02:59:51 2025    profiling_original.prof
+
+         100015 function calls (100014 primitive calls) in 0.182 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+      2/1    0.000    0.000    0.182    0.182 {built-in method builtins.exec}
+        1    0.000    0.000    0.182    0.182 <string>:1(<module>)
+        1    0.016    0.016    0.181    0.181 <string>:13(<listcomp>)
+   100000    0.166    0.000    0.166    0.000 <string>:5(es_primo)
+        2    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+        1    0.000    0.000    0.000    0.000 {built-in method io.open}
+        1    0.000    0.000    0.000    0.000 {method 'read' of '_io.TextIOWrapper' objects}
+        1    0.000    0.000    0.000    0.000 C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py:22(decode)
+        1    0.000    0.000    0.000    0.000 {built-in method _codecs.charmap_decode}
+        2    0.000    0.000    0.000    0.000 {built-in method time.time}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 <frozen codecs>:260(__init__)
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+
+

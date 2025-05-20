@@ -27,3 +27,4 @@ print(f"Primeros 10 primos: {primos[:10]}")
 
 end = time.time()
 print(f"Tiempo de ejecución: {end - start:.2f} segundos")
+print(f"{end - start:.6f}")
